@@ -1,0 +1,148 @@
+@media only screen and (min-width:1260px) {
+
+section.landing-page-astrotrading .astro-card {
+    padding-left: 30px;
+    padding-top: 0;
+}
+
+}
+@media only screen and (min-width:991px) and (max-width:1150px) {
+.profiles-card { padding-top: 0px;}
+.landing-page-astrotrading {margin: 90px 0;}
+.astro-card h3 { font-size: 37px;}
+.astro-card {padding-top: 0;}
+.trade-list { margin: 40px 0;}
+.trade-list li { line-height: 19px;margin-bottom: 15px;}
+.landing-page-astrotrading { margin: 50px 0;}
+.astro-card h3 {font-size: 30px;}
+.trade-list.wt-list li p {font-size: 15px;}
+.astro-card p {font-size: 17px;}
+.trade-list.wt-list li p {
+    color: #9CB0C2;
+    font-size: 16px;
+    max-width: 100%;
+}
+.mainland-slider-one .slick-slide.slick-current.slick-active.slick-center .profiles-slide {
+    padding: 65px 15px;
+}
+.profiles-slide figure img { width: auto;}
+section.landing-page-newslatter .container {height: 600px; padding-top: 142px;}
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+.profiles-card p {font-size: 16px;margin: 10px 0 10px;}
+.profiles-card h2 {font-size: 32px;line-height: 46px;}
+.profiles-card {padding-top: 10px;}
+.try-free-button {width: 250px;padding: 12px 19px;font-size: 14px;}
+.coloumn-card p {font-size: 13px;}
+.landing-page-astrotrading {margin: 60px 0;}
+.landing-page-astrotrading {margin: 60px 0;background-image: inherit !important;}
+.astro-card h3 {font-size: 27px;}
+.astro-card p {font-size: 18px;}
+section.landing-page-astrotrading .astro-card {padding-top: 0;}
+.trade-list {margin: 20px 0;}
+section.landing-page-treding .astro-card-image {margin-top: 90px;}
+.profiles-slide figure img {margin: 0 auto;width: auto;}
+.landing-page-multiple-slider {margin: 45px 0;}
+section.landing-page-newslatter .container {
+    height: 650px !important;
+}
+
+}
+@media only screen and (min-width:768px) {
+img.arrow-btn {
+    display: none;
+}	
+	
+.landing-page-astrotrading {
+    margin: 120px 0;
+    background: inherit !important;
+}	
+}
+
+@media only screen and (max-width:767px) {
+section.landing-page-astrotrading .container.h-100 {
+    height: auto !important;
+}	
+section.landing-page-slider {background:url(../images/BG.png);background-size: cover;background-position: center;background-repeat: no-repeat;margin: 0;height: 526px;padding-top: 420px;}
+header {position: absolute;text-align: center;margin: 0 auto;width: 100%;}
+nav.navbar.navbar-expand-md.navbar-dark.bg-blue a.navbar-brand {width: 100%;}	
+.profiles-card h2 {font-size: 30px;line-height: 36px;text-align: center;}
+.profiles-card {padding-top:0px;text-align: center;}	
+.profiles-card p { max-width: 100%; margin: 11px 0 30px;}
+.try-free-button {width: 100%;font-size: 15px;}
+.landing-page-counter {margin: 190px 0 180px;padding: 0 15px;}
+section.landing-page-astrotrading {margin: 50px 0;background-size: cover;background-position: center;padding: 92px 0;}
+section.landing-page-astrotrading {
+    position: relative;
+    height: 668px;
+    background-size: cover;
+}
+section.landing-page-astrotrading .desktop-title {position: absolute;top: -116px;text-align: center;left: 0;right: 0;
+color: #fff;font-size: 32px;}
+section.landing-page-astrotrading .astro-card {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    padding-top: 47vh;
+}
+section.landing-page-treding {
+    margin: 300px 0 20px;
+    text-align: center;
+}section.landing-page-astrotrading a.try-free-button.d-none.d-md-block {display: none !important;}
+ul.trade-list li {
+    text-align: center;
+    line-height: 31px;
+    max-width: 80%;
+    margin: 0 auto;
+    font-size: 23px;
+    margin-bottom: 40px;
+}
+ul.trade-list {padding-left: 0;}
+.trade-list li::before {
+    left: 0;
+    top: -12px;
+    right: 0;
+    display: block;
+    margin: -5px auto;
+    height: 13px;
+    width: 13px;
+}
+section.landing-page-treding .astro-card h3 {
+    font-size: 32px;
+    max-width: 73%;
+    margin: 0 auto;
+}
+section.landing-page-newslatter h3 {
+    font-size: 29px;
+}
+.astro-card p {font-size: 22px;}
+.astro-card-image{margin-top: 40px;}
+.trade-list.wt-list {padding-left: 0px;text-align: center;}
+.trade-list.wt-list {padding-left: 0px;margin: 24px 0;text-align: center;}
+.trade-list.wt-list li p {max-width: 90%;margin: 21px auto;text-align: center;line-height: 26px;}
+.trade-list.wt-list li::before {height: 30px;width: 30px;top: -35px;left: -31px;background-repeat: no-repeat;}
+.trade-list.wt-list li {margin-bottom: 55px;}
+.landing-page-multiple-slider h3 {
+    font-size: 29px;
+    margin-bottom: 40px;
+    line-height: 41px;
+}
+.profiles-slide figure img { width: auto;}
+.landing-page-multiple-slider {margin: 45px 0;}
+section.landing-page-newslatter .container {background: url(../images/mobile-botom.png) !important;background-position: center !important;background-size: contain !important;height: 800px;background-repeat: no-repeat !important;padding-top: 60px;}
+section.landing-page-newslatter {padding: 0 15px;}
+section.landing-page-newslatter .astro-card {padding-top: 20px;}
+.landing-page-newslatter .container {padding: 15px;}
+.landing-page-newslatter .astro-card h3 {margin: 0 auto;text-align: center;}
+.landing-page-newslatter .astro-card p {margin: 35px auto;font-size: 16px;text-align: center;}
+section.landing-page-newslatter .astro-card > p {min-height:398px;}
+button.Subscribe-btn img.arrow-btn {width: 22px;}
+button.Subscribe-btn {border-radius: 100%;height: 50px;width: 50px;padding: 0;}
+section.landing-page-astrotrading .astro-card > p {
+    margin: 61px 0 0;
+    text-align: center;
+    font-size: 22px;
+}
+}
+
