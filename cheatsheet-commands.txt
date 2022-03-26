@@ -1,0 +1,13 @@
+Upload project on git 
+ commands
+ git config --gloabl user.name sandy
+ git config --gloabl user.email "sandeepdesigner336@gmail.com"
+ touch. gitignore
+ git init
+ git add .
+ git commit -m "Message here"
+ Git status
+ cat ssh-keygen -t ed25519 -C "sandeepdesigner336@gmail.com" (SSh key add to setting)
+ git remote add origin (ssh repository link)
+ git push origin master
+ 
