@@ -23,7 +23,7 @@ a.navbar-brand > img { max-width: 140px;}
 .landing-page-newslatter .astro-card h3 {	max-width: 80%;}
 img {width: 100%;}
 section.landing-page-newslatter .container {
-    background: url(../images/banner-newslatter.png) !important;
+    background: url(../images/banner-newslatter.png);
     background-position: center !important;
     background-size:cover !important;
     height: 800px;
